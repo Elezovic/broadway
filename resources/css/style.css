@@ -1,0 +1,50 @@
+html {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+a {
+  color: white;
+  font-size: 18px;
+}
+
+#home {
+  background-image: url("../images/background.png");
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.subheader {
+  color: white;
+  background-image: url("../images/background.png");
+}
+
+#footer {
+  background-color: dimgray
+}
+
+h6  {
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
+
+span {
+  font-size: 11px;
+}
